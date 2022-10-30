@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background: rgb(9, 29, 29);
+    justify-content: space-between;
+    width:auto;
+    height: 100px;
+    display: flex;
+    align-items: flex-start;
+} 
+.insor{
+    display: flex;
+}
+.oleg{
+    align-items: center;
+    width: 1000px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.negr{
+    height: 700px;
+    width: 100px;
+    display: flex;
+    background-size: cover; 
+}
+.gay{
+    justify-content: space-between;
+    align-items:flex-end;
+    width:200px;
+    height: 300px;
+    
+}
+.ooo{
+    align-items: flex-start;
+}
+.logotip{
+ 
+    display: flex;
+    width: 100px;
+    height: 100px;
+    
+}
+.end{
+    background: darkslategray;
+    justify-content: space-between;
+    width:auto;
+    height: 100px;
+    display: flex;
+
+
+
+}
+.p{
+   display: flex;
+   justify-content: center;
+}
